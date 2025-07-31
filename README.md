@@ -1,4 +1,4 @@
-![logo](https://github.com/RabbicseJnu/RabbicseJnu/blob/main/welcome%20to.gif?raw=true)
+![logo](https://github.com/RabbicseJnu/RabbicseJnu/blob/main/welcome-to-resize.gif?raw=true)
 <h1 align="center">Hi 👋, I'm FAZLE RABBI</h1>
 <h3 align="center">Data Analyst & Developers</h3>
 
