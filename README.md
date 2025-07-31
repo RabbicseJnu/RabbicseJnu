@@ -6,20 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%26+Developer;Always+learning+and+building+awesome+stuff!&center=true&width=500&height=45">
 </p>
 
-
-👋 Hi, I'm **Abdur Rahim Rabbi** — a passionate and versatile **Data Analyst & Developers**.
-
 I enjoy solving real-world problems through clean code, smart design, and meaningful data. I’ve worked on everything from full-stack applications with **React + Django** to visual dashboards and machine learning projects.
 
 
 
-- 🌱 I’m currently learning: **Snowflake,Metabase,AWS,Docker**
+- 🌱 I’m currently learning:  **AI, ML, Snowflake, Metabase, AWS, Docker**
 
-- 💬 Ask me about: **react,python,data analysis & dashboarding,APIs,data pipelines**
+- 💬 Ask me about:  **React, Python, Data analysis & dashboarding, APIs, Data pipelines**
 
-- 📫 How to reach me: **fazle7229@gmail.com**
+- 📫 How to reach me:  **fazle7229@gmail.com**
 
-- ⚡ Fun fact: **pretty amusing🥰**
+- ⚡ Fun fact:  **pretty amusing🥰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
