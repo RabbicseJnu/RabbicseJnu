@@ -1,6 +1,6 @@
 ![logo](https://github.com/RabbicseJnu/RabbicseJnu/blob/main/welcome-resize.gif)
 <h1 align="center">Hi 👋, I'm FAZLE RABBI</h1>
-<h3 align="center">Data Analyst & Developers</h3>
+<h3 align="center">Data Analyst & Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%26+Developer;Always+learning+and+building+awesome+stuff!&center=true&width=500&height=45">
